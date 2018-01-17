@@ -56,7 +56,7 @@ a look at [our architectural overview and key
 concepts](https://zulip.readthedocs.io/en/latest/architecture-overview.html#usage-assumptions-and-concepts).
 
 Then: use
-[our first-time Zulip developer guide](https://zulip.readthedocs.io/en/latest/dev-env-first-time-contributors.html)
+[our first-time Zulip developer guide](https://zulip.readthedocs.io/en/latest/overview/contributing.html#your-first-codebase-contribution)
 to get your Zulip development environment set up. If you have any
 trouble, please speak up in
 [#GSoC](https://chat.zulip.org/#narrow/stream/GSoC) on
